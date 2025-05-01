@@ -1,0 +1,7 @@
+to run this project ,you need to connect pi to wifi and connect it to a computer terminal using same wifi
+pi password:12345678
+navigate to file name-fall_project
+go to the virtual environment
+execute the file named "camera_streamer.py" using command python3 camera_streamer.py
+and finally run the camera viewer file in your computer(make sure that the model best.pt and camera viewer are in the same folder)
+Replace the ip address on pi with your ip address
